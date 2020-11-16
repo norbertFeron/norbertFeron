@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=norbertFeron&layout=compact&hide=ApacheConf)](https://github.com/norbertFeron/)
+
+
 <!--
 **norbertFeron/norbertFeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
